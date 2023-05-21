@@ -511,6 +511,15 @@ h2 {
     margin-left: 10%;
 }
 
+.upper-1 a {
+    text-decoration: none;
+    color: #07A081;
+}
+
+.upper-1 a:hover {
+    color: #000;
+}
+
 .left_4 {
     margin-top: 40px;
     margin-left: 10%;
